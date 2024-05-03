@@ -1,9 +1,9 @@
 /** @type {import("./types").Config} */
 const config = {
   version: "1.0",
-  name: "My Blog",
-  shortName: "My Blog",
-  description: "My blog description goes here...",
+  name: "BlogSeba - The best Blogging Platform in Bangladesh",
+  shortName: "BlogSeba",
+  description: "Here you will find all the articles you need which you can access for free. You can earn money by sharing your articles with everyone by becoming a contributor to this website.",
   direction: "auto",
   language: "en-US",
   backgroundColor: "#fff",
@@ -17,15 +17,15 @@ const config = {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: "My Shortcut 1",
-      shortName: "My Shortcut 1",
-      description: "My Shortcut 1 description goes here...",
+      name: "BlogSeba - The best Blogging Platform in Bangladesh",
+      shortName: "BlogSeba",
+      description: "Here you will find all the articles you need which you can access for free. You can earn money by sharing your articles with everyone by becoming a contributor to this website.",
       url: "/search/label/my-shortcut-1?utm_source=homescreen"
     },
     {
-      name: "My Shortcut 2",
-      shortName: "My Shortcut 2",
-      description: "My Shortcut 2 description goes here...",
+      name: "BlogSeba - The best Blogging Platform in Bangladesh",
+      shortName: "BlogSeba",
+      description: "Here you will find all the articles you need which you can access for free. You can earn money by sharing your articles with everyone by becoming a contributor to this website.",
       url: "/search/label/my-shortcut-2?utm_source=homescreen"
     }
   ],
