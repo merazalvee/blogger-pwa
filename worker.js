@@ -25,12 +25,12 @@
 
 const APP_CONFIG = {
   app: {
-    name: 'fineshop-pwa-app'
+    name: 'blogseba-pwa-app'
   },
   github: {
-    username: '<username>',
-    repository: '<repository>',
-    branch: '<branch>',
+    username: 'merazalvee',
+    repository: 'blogger-pwa',
+    branch: 'main',
     /**
      * If the repository is private, provide token as string
      * otherwise keep it null
